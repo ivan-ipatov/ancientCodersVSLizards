@@ -1,4 +1,4 @@
-## Древнерусские кодеры против ящеров
+## Tyandex Adventures
 
 [Последний релиз](https://github.com/MRCO387/ancientCodersVSLizards/releases)
 
@@ -26,4 +26,5 @@ https://docs.google.com/document/d/1RVVWxMvX3AneYHYsD5nzOAtecCpdyae6ZigoxRI9-Sc/
 #### Дизайн:
 
 Персонажи: https://drive.google.com/file/d/1Voey7om_GHMYN_f7dJz7ziPBquaPpRPx/view?usp=drive_link
+
 Фоны: https://drive.google.com/file/d/1R6SeUbc7OuQpMI98OS6AIzwlhKSQaPlF/view?usp=drive_link
