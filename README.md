@@ -15,6 +15,10 @@
 
 https://ru.yougile.com/board/cxsvy3qyyzgp
 
+#### Презентация
+
+https://drive.google.com/drive/folders/1powrw05WkNMj60292l2Q6MTQOue6OJ9b?usp=drive_link
+
 #### Аналитика:
 
 https://drive.google.com/file/d/1brOvX-RpYIwhrKkPo8UfBsfxbWK1HX4_/view?usp=sharing
