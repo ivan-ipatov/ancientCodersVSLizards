@@ -2,6 +2,7 @@
 
 [Последний релиз](https://github.com/MRCO387/ancientCodersVSLizards/releases)
 
+[Видеопрезентация](https://drive.google.com/drive/folders/1FZoPeivdSFm1HnaDJr1i-B8r1D2cwEE2?usp=drive_link)
 ### Визуальная новелла
 
 Главный герой – Вова. Выглядит как Вован из Реальных пацанов.
